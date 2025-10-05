@@ -130,7 +130,7 @@ SmartDeliveryHub/
 │ ├── hubs.csv
 │ └── deliveries.csv
 ├── Flows/
-│ └── Auto_Assign_Driver.flow
+│ └── Auto_Assign_Driver.jpg
 ├── Screenshots/
-│ └── dashboard.png
+│ └── dashboard.jpg
 └── README.md
