@@ -1,0 +1,5 @@
+Delivery_Number__c,Customer_Name__c,Customer_Phone__c,Address__c,Latitude__c,Longitude__c,Scheduled_Date__c,Status__c,Hub__c
+DEL-001,Rajesh Das,+91-9000002222,"MG Road, Hyderabad",17.4325,78.4472,2025-10-15T09:00:00Z,Scheduled,Hyderabad Hub
+DEL-002,Meera Jain,+91-9000003333,"Banjara Hills, Hyderabad",17.4280,78.4340,2025-10-15T10:00:00Z,Scheduled,Hyderabad Hub
+DEL-003,Sunil Kumar,+91-9000004444,"Kukatpally, Hyderabad",17.4365,78.4440,2025-10-15T08:30:00Z,Scheduled,Kukatpally Hub
+DEL-004,Test Customer,+91-9000005555,"Near Secunderabad Station",17.4395,78.4983,2025-10-16T09:00:00Z,Scheduled,Secunderabad Hub
