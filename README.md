@@ -111,7 +111,7 @@ Use **Data Import Wizard** to import `hubs.csv`, `drivers.csv`, and `deliveries.
 
 ## 🎥 **Demo & Walkthrough**
 
-- **Demo Video:** (Add your Loom/YouTube link here)  
+- **Demo Video:** (https://drive.google.com/file/d/1aLV9fBdnRZX36Y-N5QT6fghNSxH7aRpo/view?usp=sharing)
 - **Features Shown:**  
   - Delivery Auto Assignment  
   - ETA Calculation  
